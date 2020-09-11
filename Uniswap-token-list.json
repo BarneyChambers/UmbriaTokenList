@@ -10,10 +10,6 @@
     "governance token"
   ],
   "tags": {
-    "governance": {
-      "name": "Umbria",
-      "description": "The governance token for Online Blockchains DeFi protocol"
-    },
     "Umbria": {
       "name": "Umbria Token",
       "description": "Tokens earn interest on umbria.finance"
