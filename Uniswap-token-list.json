@@ -1,0 +1,41 @@
+  
+{
+  "name": "OBC Token List",
+  "logoURI": "ipfs://QmT7nguCYSf8UhMtnG4UpwuP9QmQrpMNRXAywVbbPc1oob",
+  "keywords": [
+    "audited",
+    "verified",
+    "online blockchain",
+    "ADVFN",
+    "governance token"
+  ],
+  "tags": {
+    "governance": {
+      "name": "Umbria",
+      "description": "The governance token for Online Blockchain's DeFi protocol"
+    },
+    "Umbria": {
+      "name": "Umbria Token",
+      "description": "Tokens earn interest on umbria.finance"
+    }
+  },
+  "timestamp": "2020-09-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd69dcda0c110031394e3274b1846fdf118d9efcf",
+      "symbol": "UMBR",
+      "name": "Umbria",
+      "decimals": 18,
+      "logoURI": "ipfs://QmT7nguCYSf8UhMtnG4UpwuP9QmQrpMNRXAywVbbPc1oob",
+      "tags": [
+        "governance"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
